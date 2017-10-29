@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509221256 source:f:\cursuri\an 2 sem1\tap\laborator\laborator1\problema3\main.cpp
+	<fstream>
+	<vector>
+	<list>
+

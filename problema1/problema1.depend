@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508660728 source:f:\cursuri\an 2 sem1\tap\laborator\laborator1\problema1\main.cpp
+	<fstream>
+	<algorithm>
+	<stdlib.h>
+
